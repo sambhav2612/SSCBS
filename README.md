@@ -1,2 +1,2 @@
 # sscbs
-Official SSCBS Google Assistant App
+Official SSCBS Google Assistant App built on [DialogFlow](https://console.dialogflow.com/).
