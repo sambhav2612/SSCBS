@@ -1,0 +1,98 @@
+[
+  {
+    "id": "aa0b8e15-2987-47e5-a5e5-14cd1c2bb4d8",
+    "data": [
+      {
+        "text": "i\u0027d like to know more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527617890
+  },
+  {
+    "id": "3cc875b0-0a14-4910-8a36-6bbaa1aa6738",
+    "data": [
+      {
+        "text": "show more results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527617890
+  },
+  {
+    "id": "553280b8-859a-4eee-b8c3-5ade26e03728",
+    "data": [
+      {
+        "text": "tell me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527617890
+  },
+  {
+    "id": "4dfa14c0-31e7-4170-afe6-258b03652d47",
+    "data": [
+      {
+        "text": "more results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527617890
+  },
+  {
+    "id": "d7f07e63-fdae-4904-9621-0de45213acca",
+    "data": [
+      {
+        "text": "anything else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527617890
+  },
+  {
+    "id": "2bc281c8-aa42-432b-b48f-818c13ebeb8f",
+    "data": [
+      {
+        "text": "more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527617890
+  },
+  {
+    "id": "f2e8b4da-3ac1-49fa-9d2e-837284e60241",
+    "data": [
+      {
+        "text": "more information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527617890
+  },
+  {
+    "id": "20363c9f-c3a9-4282-b957-e35e90cb45e7",
+    "data": [
+      {
+        "text": "other results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527617890
+  }
+]

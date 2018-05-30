@@ -1,0 +1,44 @@
+{
+  "id": "19e12da3-7c7b-44da-9c02-d7400276b419",
+  "parentId": "6f9dbdea-c35a-483f-a197-ec7c84866a0a",
+  "rootParentId": "ca5c332a-cfb4-47b2-b67e-02725ab7620b",
+  "name": "Library Intent",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-more-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-more.DefaultWelcomeIntent-more-custom-3",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e823c6cf-8d08-41e7-af9c-c9e28e4431c9",
+          "dataType": "@SSCBS",
+          "name": "SSCBS",
+          "value": "$SSCBS",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Shaheed Sukhdev College has a two-storey library with thousands of books of texts, magazines, novels and newpapers. The facility is equipped with cutting-edge technology to harness the infrastructure powering the institution."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527618299,
+  "fallbackIntent": false,
+  "events": []
+}

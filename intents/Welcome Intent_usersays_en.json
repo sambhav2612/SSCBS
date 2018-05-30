@@ -1,0 +1,152 @@
+[
+  {
+    "id": "7b708560-5601-4330-b76f-733b09f0575f",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "sscbs",
+        "alias": "SSCBS",
+        "meta": "@SSCBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527616800
+  },
+  {
+    "id": "a945cdab-11a5-4621-90a5-98d871156838",
+    "data": [
+      {
+        "text": "cbs delhi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527616800
+  },
+  {
+    "id": "be0a1946-c19b-49b9-97cd-e0158413760e",
+    "data": [
+      {
+        "text": "sscbs",
+        "alias": "SSCBS",
+        "meta": "@SSCBS",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "delhi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527616800
+  },
+  {
+    "id": "d43c50a3-4c4a-4cf6-9f25-7bc947b5c325",
+    "data": [
+      {
+        "text": "cbs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527616800
+  },
+  {
+    "id": "34708f9e-9add-46b1-a360-074cccaaf3c6",
+    "data": [
+      {
+        "text": "Shaheed Sukhdev college of business studies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527616800
+  },
+  {
+    "id": "dfb370ad-de70-443e-b16a-a0b5a9269ae6",
+    "data": [
+      {
+        "text": "SSCBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527616800
+  },
+  {
+    "id": "19a069b6-a653-401d-b525-828b5770db4f",
+    "data": [
+      {
+        "text": "open sscbs app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527616800
+  },
+  {
+    "id": "9c479118-1364-4e76-b3ff-565d1db66c44",
+    "data": [
+      {
+        "text": "ok google, tell me about Shaheed Sukhdev college of business studies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527616800
+  },
+  {
+    "id": "1d91f060-7da8-4c5e-b301-a8c137c9b0a4",
+    "data": [
+      {
+        "text": "hey google, tell me about Shaheed Sukhdev college of business studies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527616800
+  },
+  {
+    "id": "1be9d3db-8911-45dd-a161-5cac36f7f500",
+    "data": [
+      {
+        "text": "hey google, tell me about sscbs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527616800
+  },
+  {
+    "id": "ad5a98fc-c892-456f-b556-998f69bb1928",
+    "data": [
+      {
+        "text": "ok google, tell me something about sscbs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527616800
+  }
+]

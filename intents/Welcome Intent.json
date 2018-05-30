@@ -1,0 +1,63 @@
+{
+  "id": "ca5c332a-cfb4-47b2-b67e-02725ab7620b",
+  "name": "Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2ab83f23-b267-4572-a03a-6b4459a8f690",
+          "required": false,
+          "dataType": "@SSCBS",
+          "name": "SSCBS",
+          "value": "$SSCBS",
+          "isList": false
+        },
+        {
+          "id": "d3099201-6310-440a-819e-a3a71fb0fc20",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi! Welcome to the official SSCBS Google Assistant App. Enter more to continue and quit to exit.",
+            "Hello! Welcome to the official SSCBS Google Assistant App. Enter more to continue and quit to exit.",
+            "Greetings! Welcome to the official SSCBS Google Assistant App. Enter more to continue and quit to exit."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527617980,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
